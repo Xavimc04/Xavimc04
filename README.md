@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **some personal projects with Laravel and Nextjs**<br>👨‍💻 All of my projects are available at [xaviermorell.vercel.app](xaviermorell.vercel.app)
+🔭 I’m currently working on **some personal projects with Laravel and Nextjs**<br>👨‍💻 All of my projects are available at [xaviermorell.es](xaviermorell.es)
 
 
 ## 🌐 Socials:
